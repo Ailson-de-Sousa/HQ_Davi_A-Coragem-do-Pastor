@@ -19,5 +19,5 @@ O projeto visa não apenas criar uma narrativa envolvente e visualmente impactan
 - Utilizar ferramentas de IA generativa para auxiliar na criação de conteúdo e arte.
 - Promover a prática de desenvolvimento iterativo e incremental com GitHub.
 
- Estrutura Inicial da História em Quadrinhos
-A história será uma aventura focada em um grupo de heróis que, cada um com suas habilidades únicas, deve enfrentar desafios e vilões em um mundo futurista e distópico. A jornada explora temas como coragem, amizade, e superação de obstáculos com a ajuda de tecnologia avançada e poderes especiais. 
+ Estrutura  História em Quadrinhos
+A história retrata o jovem pastor Davi, que enfrenta o gigante guerreiro Golias em uma batalha decisiva. Armado apenas com uma fundação e sua fé em Deus, Davi desafia o exército filisteu e abate o gigante com uma única pedra.
