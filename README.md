@@ -4,8 +4,6 @@
 - Ailson Ferreira de Sousa
 - Brayham Procopio de Carvalho
 - Marcelo da Silva Gomes
-- Mateus Rodrigues Santos
-- Pedro Rodrigues Santos
 
 ## Descrição do Projeto
 **HQAdventures** é um projeto colaborativo de criação de uma história em quadrinhos utilizando ferramentas de Inteligência Artificial (IA) e GitHub para a gestão do desenvolvimento. A história será desenvolvida de forma iterativa, incorporando conceitos de metodologias ágeis, como SCRUM e Kanban, para garantir um fluxo de trabalho eficiente e adaptável.
