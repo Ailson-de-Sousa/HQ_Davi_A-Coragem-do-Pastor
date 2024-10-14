@@ -30,6 +30,6 @@ Este repositório contém os arquivos de desenvolvimento da história em quadrin
 
 
 ## Links Importantes:
-- [Kanban](https://github.com/users/Brayham-Carvalho/projects/1/views/1)
+- [Kanban](https://github.com/users/Ailson-de-Sousa/projects/1)
 - [Product Backlog](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/issues)
 
