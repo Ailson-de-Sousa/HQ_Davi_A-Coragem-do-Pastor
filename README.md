@@ -27,8 +27,10 @@ Este repositório contém os arquivos de desenvolvimento da história em quadrin
 ## Ferramentas Utilizadas:
 - GitHub (Product Backlog, Issues, Kanban)
 - SCRUM para gerenciamento do projeto
-
-
+- 
+## Link Conteúdo Desenvolvido:
+- [HQ_Davi_A-Coragem-do-Pastor](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Tirinha%20Davi%20e%20Golias%20(1).pdf)
+  
 ## Links Importantes:
 - [Kanban](https://github.com/users/Ailson-de-Sousa/projects/1)
 - [Product Backlog](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/issues)
