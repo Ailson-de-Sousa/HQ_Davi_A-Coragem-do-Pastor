@@ -35,6 +35,10 @@ Este repositório contém os arquivos de desenvolvimento da história em quadrin
 - [Kanban](https://github.com/users/Ailson-de-Sousa/projects/1)
 - [Product Backlog](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/issues)
 - [Sprint Planning](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Planning.pdf)
-- [Resumo Dailys](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Resumo%20Dailys.pdf)
+- [Dailys](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Resumo%20Dailys.pdf)
+- [Sprint Review](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Review.pdf)
+- [Sprint Retrospective](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Retrospective.pdf)
+
+## Outros Links:
 - [Design da Narrativa](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Design%20da%20narrativa.pdf)
 - [Roteiro e Diálogos](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Revis%C3%A3o_do_roteiro_de_Storyboard_para_HQ.pdf)
