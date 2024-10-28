@@ -35,7 +35,7 @@ Este repositório contém os arquivos de desenvolvimento da história em quadrin
 - [Kanban](https://github.com/users/Ailson-de-Sousa/projects/1)
 - [Product Backlog](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/issues)
 - [Sprint 02](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/tree/3c861d69481db7da1674f39900ebf93fa1931971/Arquivos)
-- [Sprint 03](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Resumo%20Dailys.pdf)
+- [Sprint 03](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/tree/dbc3ad25a0beb14cc3743ef7ee994ecf7eff2ddd/semana%2020-28)
 
 
 ## Outros Links:
