@@ -34,10 +34,9 @@ Este repositório contém os arquivos de desenvolvimento da história em quadrin
 ## Links Importantes:
 - [Kanban](https://github.com/users/Ailson-de-Sousa/projects/1)
 - [Product Backlog](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/issues)
-- [Sprint Planning](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Planning.pdf)
-- [Dailys](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Resumo%20Dailys.pdf)
-- [Sprint Review](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Review.pdf)
-- [Sprint Retrospective](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Sprint%20Retrospective.pdf)
+- [Sprint 02](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/tree/3c861d69481db7da1674f39900ebf93fa1931971/Arquivos)
+- [Sprint 03](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Resumo%20Dailys.pdf)
+
 
 ## Outros Links:
 - [Design da Narrativa](https://github.com/Ailson-de-Sousa/HQ_Davi_A-Coragem-do-Pastor/blob/main/Arquivos/Design%20da%20narrativa.pdf)
